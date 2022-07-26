@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "chess-trainer-native",
+    "slug": "chess-trainer-native",
+    "version": "1.0.0",
+    "sdkVersion": "45.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.chesstrainer.chesstrainernative"
+    }
+  }
+}
